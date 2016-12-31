@@ -1,0 +1,17 @@
+So this is a little experiment in trying to write a "secure" chat client/server.
+
+And it actually ended up working.  I know I cant believe it either...
+
+I borrowed most of the code and just made a few changes myself.
+So here are a few links to those sites. 
+https://docs.python.org/2/library/socketserver.html 
+http://stackoverflow.com/questions/5293959/creating-a-salt-in-python 
+https://docs.python.org/2/library/hashlib.html 
+http://stackoverflow.com/questions/12524994/encrypt-decrypt-using-pycrypto-aes-256
+
+Anyway DO NOT USE THIS IN PRODUCTION.  Its probably broken in some horrible way.
+
+The license (for my code at least) is use it how ever you want.
+
+And remember to have fun. :)
+
